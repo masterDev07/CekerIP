@@ -1,5 +1,5 @@
 # CekerIP
-aplikasi koneksi jaringan ip dan internet jalan di linux.
+aplikasi cek koneksi jaringan ip dan internet jalan di linux.
 
 -----------------------------------
 rekuiremen :

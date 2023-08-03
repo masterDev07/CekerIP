@@ -1,5 +1,5 @@
 # CekerIP
-aplilasi koneksi jaringan ip dan internet jalan di linux.
+aplikasi koneksi jaringan ip dan internet jalan di linux.
 
 -----------------------------------
 rekuiremen :
@@ -15,3 +15,5 @@ cara run : ./cekertip lalu enter
 Sebelumnya set dahulu ip2 mana saja yang ingin di monitor koneksi ipnya. Bisa di set di lisip nama filenya.
 Ip bisa diisi sebosan yang anda mau. Ini aplikasi bukan tujuan negatif . Bisa dimanfaatkan oleh para administrator 
 jaringan untuk mengawasi para komputer yang disana  sana.
+
+Ada film perdana untuk cekerip lumayan singkat.

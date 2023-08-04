@@ -16,4 +16,4 @@ Sebelumnya set dahulu ip2 mana saja yang ingin di monitor koneksi ipnya. Bisa di
 Ip bisa diisi sebosan yang anda mau. Ini aplikasi bukan tujuan negatif . Bisa dimanfaatkan oleh para administrator 
 jaringan untuk mengawasi para komputer yang disana  sana.
 
-Ada film perdana untuk cekerip lumayan singkat.
+Ada film perdana untuk cekerip lumayan singkat bisa di play di vlc untuk yang browser disini https://drive.google.com/file/d/1VLfthFVkEb1abJRANXkMOA_b1kXAX3fb/view?usp=sharing.

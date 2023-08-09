@@ -28,7 +28,3 @@ jaringan,developer,gamer,conten creator untuk mengawasi para komputer yang disan
 
 Ada film perdana untuk cekerip lumayan singkat bisa di play di vlc untuk yang browser disini https://drive.google.com/file/d/1VLfthFVkEb1abJRANXkMOA_b1kXAX3fb/view?usp=sharing.
 Film cekerip v1 the movie : https://drive.google.com/file/d/1cxFdOsD95-5AIi_L1DxkPblQSzEloSTX/view?usp=sharing
-
-Kedepannya :
-1. buat web untuk memonitor jaringan. Kebutuhan mysql untuk database dan CI framework php. Tapi hanya aplikasi ini aja sudah cukup sekali aku mencoba.
-2. belum tahu  

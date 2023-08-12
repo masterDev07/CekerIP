@@ -4,7 +4,7 @@
 | |   / _ \ |/ / _ \ '__| || |_) |
 | |__|  __/   <  __/ |  | ||  __/ 
  \____\___|_|\_\___|_| |___|_|
-``` The new vision of relation ```
+``` The new vision of a relation ```
  
 # CekerIP
 
